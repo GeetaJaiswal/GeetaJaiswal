@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Geeta</h1>
-<h3 align="center">A passionate Web Developer</h3>
+<h3 align="center">A passionate Data Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geetajaiswal&label=Profile%20views&color=0e75b6&style=flat" alt="geetajaiswal" /> </p>
 
-- 🔭 I’m currently working on [Schools Online Education Web Application](http://webartihc.ultimatefreehost.in/?i=1)
+<!--- 🔭 I’m currently working on [Schools Online Education Web Application](http://webartihc.ultimatefreehost.in/?i=1) 
 
-- 🌱 I’m currently learning **NodeJs**
+- 🌱 I’m currently learning **NodeJs** -->
 
 - 📫 How to reach me **geetaverma6653@gmail.com**
 
